@@ -1,15 +1,14 @@
 - [前言(制作中)](README.md)
 - [版权声明](Copyright-Notice.md)
+- [联系作者](contact.md)
 - [第0章：TRPG简介](Chapter0.md)
 - [第1章：泰拉世界(制作中)](Chapter1.md)
 - [第2章：创建干员](Chapter2.md)
 - [第3章：能力与专精](Chapter3.md)
 - [第4章：游戏系统](Chapter4.md)
-
 - [第5章：战斗](Chapter5.md)
 - [第6章：源石技艺](Chapter6.md)
 - [第7章：探索泰拉](Chapter7.md)
 - [第8章：装备](Chapter8.md)
 - [第9章：主持游戏(制作中)](Chapter9.md)
 
-- 更新日志
