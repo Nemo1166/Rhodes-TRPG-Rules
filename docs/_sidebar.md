@@ -11,4 +11,5 @@
 - [第7章：探索泰拉](Chapter7.md)
 - [第8章：装备](Chapter8.md)
 - [第9章：主持游戏(制作中)](Chapter9.md)
+- [索引](Indexes.md)
 
