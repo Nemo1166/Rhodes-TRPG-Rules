@@ -51,8 +51,13 @@ body {
 	-moz-osx-font-smoothing:grayscale;
 	-webkit-font-smoothing:antialiased;
 	color:#34495e;
+	background-image:url(../res/bbg.png);
+	background-size: cover;
+	background-position:center 0;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
 	font-family:Source Sans Pro,Helvetica Neue,Arial,sans-serif;
-	font-size:15px;
+	font-size:16px;
 	letter-spacing:0;
 	margin:0;
 	overflow-x:hidden
@@ -327,14 +332,16 @@ body.sticky .sidebar,body.sticky .sidebar-toggle {
 	width:100%
 }
 .markdown-section th {
+	background-color:rgb(154, 155, 207);
 	font-weight:700
 }
 .markdown-section td,.markdown-section th {
-	border:1px solid #ddd;
+	border:2px solid #ddd;
 	padding:6px 13px
 }
 .markdown-section tr {
-	border-top:1px solid #ccc
+	border-top:2px solid #ccc;
+	background-color:#ffffff;
 }
 .markdown-section p.tip,.markdown-section tr:nth-child(2n) {
 	background-color:#f8f8f8
