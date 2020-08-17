@@ -2,7 +2,7 @@
 
 <img src="res/logo.png" alt="logo" style="zoom:125%;" />
 
-# **罗德岛干员行动准则**<small>0.5 alpha</small>
+# **罗德岛干员行动准则**<small>0.5 GA</small>
 
 
 

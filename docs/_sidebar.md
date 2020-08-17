@@ -1,4 +1,4 @@
-- [前言(制作中)](Intro.md)
+- [前言](Intro.md)
 - [版权声明](Copyright-Notice.md)
 - [联系作者](contact.md)
 - [第0章：TRPG简介](Chapter0.md)
@@ -10,6 +10,7 @@
 - [第6章：源石技艺](Chapter6.md)
 - [第7章：探索泰拉](Chapter7.md)
 - [第8章：装备](Chapter8.md)
-- [第9章：主持游戏(制作中)](Chapter9.md)
+- [第9章：主持游戏](Chapter9.md)
 - [索引](Indexes.md)
+- [更新日志](Update-log.md)
 
