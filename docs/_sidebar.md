@@ -1,4 +1,4 @@
-- [前言(制作中)](README.md)
+- [前言(制作中)](Intro.md)
 - [版权声明](Copyright-Notice.md)
 - [联系作者](contact.md)
 - [第0章：TRPG简介](Chapter0.md)
