@@ -1,6 +1,11 @@
 # Rhodes-TRPG-Rules
 罗德岛干员行动准则 - 方舟TRPG规则
 
+## Repository Mirror
+
+- [GitHub](https://github.com/nemo1166/Rhodes-TRPG-Rules)
+- [Gitee](https://gitee.com/nemo1166/Rhodes-TRPG-Rules)
+
 ## 在线阅读
 
 - [GitHub Pages](https://nemo1166.github.io/Rhodes-TRPG-Rules/)
