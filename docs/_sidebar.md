@@ -2,7 +2,7 @@
 - [版权声明](Copyright-Notice.md)
 - [联系作者](contact.md)
 - [第0章：TRPG简介](Chapter0.md)
-- [第1章：泰拉世界(制作中)](Chapter1.md)
+- [第1章：泰拉世界](Chapter1.md)
 - [第2章：创建干员](Chapter2.md)
 - [第3章：能力与专精](Chapter3.md)
 - [第4章：游戏系统](Chapter4.md)
